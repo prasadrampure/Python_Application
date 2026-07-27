@@ -1,0 +1,1692 @@
+--------------------------------------------------
+----- Marvellous Platform Survillence System -----
+Log file gets created at : 2026-07-26_20-38-53
+--------------------------------------------------
+
+-------- System Report ---------
+Number of activate CPU core : 12 
+CPU Usage : 3.4 %
+--------------------------------------------------
+RAM Usage : 48.4 %
+Total RAM Avilable : 16456007680 
+--------------------------------------------------
+Network Usage Report
+Sent : 0.00 MB
+Receive : 0.00 MB
+--------------------------------------------------
+PID : 0
+Name : System Idle Process
+username : NT AUTHORITY\SYSTEM
+status : running
+CPU usage : 0.00
+RAM Usage : 0.00
+--------------------------------------------------
+PID : 4
+Name : System
+username : NT AUTHORITY\SYSTEM
+status : running
+CPU usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 188
+Name : 
+username : None
+status : stopped
+CPU usage : 0.00
+RAM Usage : 0.41
+--------------------------------------------------
+PID : 232
+Name : Registry
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 372
+Name : AMDRSServ.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.59
+--------------------------------------------------
+PID : 784
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 800
+Name : smss.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 960
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 1104
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.16
+--------------------------------------------------
+PID : 1112
+Name : csrss.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 1256
+Name : wininit.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 1376
+Name : AdobeCollabSync.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.30
+--------------------------------------------------
+PID : 1384
+Name : services.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 1420
+Name : LsaIso.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 1432
+Name : lsass.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.18
+--------------------------------------------------
+PID : 1456
+Name : Code.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 2.88
+--------------------------------------------------
+PID : 1564
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.28
+--------------------------------------------------
+PID : 1592
+Name : fontdrvhost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 1620
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 1696
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 1748
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 1788
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 1920
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 1980
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 2008
+Name : AMDRSSrcExt.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.34
+--------------------------------------------------
+PID : 2016
+Name : RuntimeBroker.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 2068
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 2076
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 2112
+Name : conhost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 2128
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 2136
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 2156
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 2260
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.11
+--------------------------------------------------
+PID : 2324
+Name : MicrosoftStartFeedProvider.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.28
+--------------------------------------------------
+PID : 2348
+Name : conhost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 2396
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 2468
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 2612
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 2700
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 2796
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 2880
+Name : amdfendrsr.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 2908
+Name : helperservice.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 2936
+Name : atiesrxx.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 2996
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 3032
+Name : taskhostw.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 3044
+Name : cncmd.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 3232
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 3240
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 3248
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 3264
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 3324
+Name : MemCompression
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 2.57
+--------------------------------------------------
+PID : 3364
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 3412
+Name : AppHelperCap.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 3420
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 3428
+Name : DiagsCap.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 3432
+Name : TouchpointAnalyticsClientService.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.16
+--------------------------------------------------
+PID : 3444
+Name : NetworkCap.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 3460
+Name : SysInfoCap.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.19
+--------------------------------------------------
+PID : 3468
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 3528
+Name : dllhost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 3532
+Name : RuntimeBroker.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 3600
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 3728
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 3744
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 3800
+Name : Code.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.79
+--------------------------------------------------
+PID : 3952
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.21
+--------------------------------------------------
+PID : 3960
+Name : Code.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.81
+--------------------------------------------------
+PID : 4104
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 4192
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.11
+--------------------------------------------------
+PID : 4244
+Name : msedgewebview2.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 4252
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 4496
+Name : unsecapp.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 4624
+Name : WmiPrvSE.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.51
+--------------------------------------------------
+PID : 4788
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 4948
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 4992
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 5016
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.18
+--------------------------------------------------
+PID : 5020
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 5088
+Name : spoolsv.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 5252
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 5272
+Name : armsvc.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 5280
+Name : ETDService.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 5288
+Name : HPCommRecovery.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 5296
+Name : RtkBtManServ.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 5308
+Name : RtkAudUService64.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 5316
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 5324
+Name : HPPrintScanDoctorService.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 5332
+Name : OfficeClickToRun.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 5340
+Name : UltraViewer_Service.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 5356
+Name : GooglePlayGamesServices.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.37
+--------------------------------------------------
+PID : 5372
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 5380
+Name : sqlwriter.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 5388
+Name : vmware-authd.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 5396
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.27
+--------------------------------------------------
+PID : 5404
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.32
+--------------------------------------------------
+PID : 5420
+Name : SECOMN64.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 5432
+Name : mc-fw-host.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 1.32
+--------------------------------------------------
+PID : 5440
+Name : MsMpEng.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 1.86
+--------------------------------------------------
+PID : 5456
+Name : vmware-usbarbitrator64.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 5468
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 5476
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 5484
+Name : vmnat.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 5524
+Name : MpDefenderCoreService.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 5552
+Name : vmnetdhcp.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 5696
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 5784
+Name : ms-teams.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.22
+--------------------------------------------------
+PID : 5848
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 6012
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 6024
+Name : SpotifyLauncher.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.28
+--------------------------------------------------
+PID : 6100
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 6672
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 6700
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 6824
+Name : NisSrv.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 7000
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 7340
+Name : dwm.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.54
+--------------------------------------------------
+PID : 7428
+Name : crashpad_handler.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 8040
+Name : HPSystemEventUtilityHost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.36
+--------------------------------------------------
+PID : 8056
+Name : RtkAudUService64.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.12
+--------------------------------------------------
+PID : 8304
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 8532
+Name : msedgewebview2.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 8684
+Name : HPSystemEventUtilityBackground.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.36
+--------------------------------------------------
+PID : 8832
+Name : AggregatorHost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 8872
+Name : SearchHost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.82
+--------------------------------------------------
+PID : 9116
+Name : HP.HPX.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.67
+--------------------------------------------------
+PID : 9152
+Name : dasHost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.11
+--------------------------------------------------
+PID : 9164
+Name : svchost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.19
+--------------------------------------------------
+PID : 9324
+Name : unsecapp.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 9360
+Name : jusched.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 9396
+Name : python.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 9488
+Name : Code.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.22
+--------------------------------------------------
+PID : 9572
+Name : Code.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 1.29
+--------------------------------------------------
+PID : 9616
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 9672
+Name : PushNotificationsLongRunningTask.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.11
+--------------------------------------------------
+PID : 9872
+Name : svchost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.12
+--------------------------------------------------
+PID : 9876
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 9884
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 10012
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 10184
+Name : vmware-tray.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 10660
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.12
+--------------------------------------------------
+PID : 10756
+Name : Code.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.34
+--------------------------------------------------
+PID : 10804
+Name : taskhostw.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 11156
+Name : Code.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 2.30
+--------------------------------------------------
+PID : 11188
+Name : msedgewebview2.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.25
+--------------------------------------------------
+PID : 11700
+Name : TextInputHost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.51
+--------------------------------------------------
+PID : 11844
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.12
+--------------------------------------------------
+PID : 11852
+Name : OpenConsole.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 12128
+Name : msedgewebview2.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.26
+--------------------------------------------------
+PID : 12200
+Name : Code.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 2.16
+--------------------------------------------------
+PID : 12400
+Name : StartMenuExperienceHost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.96
+--------------------------------------------------
+PID : 12476
+Name : RuntimeBroker.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 12528
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 12568
+Name : SpotifyWidgetProvider.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.24
+--------------------------------------------------
+PID : 12816
+Name : RtkAudUService64.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.11
+--------------------------------------------------
+PID : 12876
+Name : msedgewebview2.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.60
+--------------------------------------------------
+PID : 12912
+Name : SearchIndexer.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.23
+--------------------------------------------------
+PID : 12968
+Name : msedgewebview2.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.42
+--------------------------------------------------
+PID : 13080
+Name : SECOCL64.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 13156
+Name : msedgewebview2.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.38
+--------------------------------------------------
+PID : 13420
+Name : Code.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.84
+--------------------------------------------------
+PID : 13540
+Name : HP.ContextAware.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.32
+--------------------------------------------------
+PID : 13688
+Name : WidgetBoard.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.24
+--------------------------------------------------
+PID : 13868
+Name : conhost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 14004
+Name : Code.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.68
+--------------------------------------------------
+PID : 14080
+Name : svchost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 14156
+Name : ms-teams.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.21
+--------------------------------------------------
+PID : 14176
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 14408
+Name : Code.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.72
+--------------------------------------------------
+PID : 14620
+Name : winlogon.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 14728
+Name : Code.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.92
+--------------------------------------------------
+PID : 14748
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 14816
+Name : explorer.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 2.09
+--------------------------------------------------
+PID : 15056
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 15104
+Name : ETDCtrl.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.11
+--------------------------------------------------
+PID : 15164
+Name : Code.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.83
+--------------------------------------------------
+PID : 15196
+Name : CrossDeviceService.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.70
+--------------------------------------------------
+PID : 15400
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 15612
+Name : Code.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 1.39
+--------------------------------------------------
+PID : 15972
+Name : msedgewebview2.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 15996
+Name : cmd.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 16040
+Name : crashpad_handler.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 16084
+Name : SecurityHealthSystray.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 16864
+Name : mc-fw-host.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.19
+--------------------------------------------------
+PID : 16880
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 16960
+Name : svchost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.21
+--------------------------------------------------
+PID : 16972
+Name : fdm.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.87
+--------------------------------------------------
+PID : 17248
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 17372
+Name : SecurityHealthService.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 17676
+Name : dasHost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 17920
+Name : WindowsTerminal.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.55
+--------------------------------------------------
+PID : 18236
+Name : DesktopExtension.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.39
+--------------------------------------------------
+PID : 18272
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 18392
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 18584
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 18600
+Name : sqlservr.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.67
+--------------------------------------------------
+PID : 18900
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 19096
+Name : WmiPrvSE.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 19128
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 19184
+Name : msedgewebview2.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 19208
+Name : crashpad_handler.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 19232
+Name : fontdrvhost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 19536
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 19672
+Name : uihost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.19
+--------------------------------------------------
+PID : 19752
+Name : CrossDeviceResume.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.35
+--------------------------------------------------
+PID : 20176
+Name : FileSyncHelper.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.12
+--------------------------------------------------
+PID : 20364
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 20652
+Name : sihost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.32
+--------------------------------------------------
+PID : 20768
+Name : svchost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 20856
+Name : ShellHost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.33
+--------------------------------------------------
+PID : 20932
+Name : sqlceip.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 21012
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 21056
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.33
+--------------------------------------------------
+PID : 21284
+Name : ctfmon.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.21
+--------------------------------------------------
+PID : 21580
+Name : FileCoAuth.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.22
+--------------------------------------------------
+PID : 21812
+Name : RadeonSoftware.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.17
+--------------------------------------------------
+PID : 21876
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.12
+--------------------------------------------------
+PID : 21980
+Name : Code.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.97
+--------------------------------------------------
+PID : 22272
+Name : svchost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.24
+--------------------------------------------------
+PID : 22316
+Name : AdobeCollabSync.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.14
+--------------------------------------------------
+PID : 22352
+Name : RuntimeBroker.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 22380
+Name : HPMediaNetwork.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.34
+--------------------------------------------------
+PID : 22860
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 23068
+Name : OneDrive.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.77
+--------------------------------------------------
+PID : 23228
+Name : PhoneExperienceHost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.90
+--------------------------------------------------
+PID : 23436
+Name : csrss.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.05
+--------------------------------------------------
+PID : 23488
+Name : WidgetService.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.19
+--------------------------------------------------
+PID : 23784
+Name : mc-neo-host.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.16
+--------------------------------------------------
+PID : 23828
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 24144
+Name : msedgewebview2.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 24188
+Name : servicehost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.20
+--------------------------------------------------
+PID : 24540
+Name : msedgewebview2.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 24700
+Name : RuntimeBroker.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.40
+--------------------------------------------------
+PID : 24704
+Name : svchost.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.17
+--------------------------------------------------
+PID : 25016
+Name : msedgewebview2.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.77
+--------------------------------------------------
+PID : 25176
+Name : atieclxx.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 26532
+Name : WmiApSrv.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 26564
+Name : msedgewebview2.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 26828
+Name : RuntimeBroker.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : running
+CPU usage : 0.00
+RAM Usage : 0.29
+--------------------------------------------------
+PID : 26968
+Name : LockApp.exe
+username : LAPTOP-UT3JB7CV\SANKET
+status : stopped
+CPU usage : 0.00
+RAM Usage : 0.76
+--------------------------------------------------
+PID : 27076
+Name : svchost.exe
+username : None
+status : running
+CPU usage : 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+--------------------------------------------------
+--------- End od log file ---------
+--------------------------------------------------

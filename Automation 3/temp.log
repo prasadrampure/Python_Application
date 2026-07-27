@@ -1,0 +1,726 @@
+--------------------------------------------
+{'status': 'running', 'name': 'System Idle Process', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 0, 'cpu_percent': 0.0, 'memory_persent': 4.9781211575127315e-05}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'System', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 4, 'cpu_percent': 0.0, 'memory_persent': 0.021256577342579363}
+--------------------------------------------
+--------------------------------------------
+{'status': 'stopped', 'name': '', 'username': None, 'pid': 188, 'cpu_percent': 0.0, 'memory_persent': 0.40768323219450514}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'Registry', 'username': None, 'pid': 232, 'cpu_percent': 0.0, 'memory_persent': 0.14468909144310754}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'AMDRSServ.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 372, 'cpu_percent': 0.0, 'memory_persent': 0.5903056068578597}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 784, 'cpu_percent': 0.0, 'memory_persent': 0.038879126240174436}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'smss.exe', 'username': None, 'pid': 800, 'cpu_percent': 0.0, 'memory_persent': 0.005077683580662986}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 960, 'cpu_percent': 0.0, 'memory_persent': 0.048511790679961565}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 1104, 'cpu_percent': 0.0, 'memory_persent': 0.15509336466230914}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'csrss.exe', 'username': None, 'pid': 1112, 'cpu_percent': 0.0, 'memory_persent': 0.02016139068792656}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'wininit.exe', 'username': None, 'pid': 1256, 'cpu_percent': 0.0, 'memory_persent': 0.025363527297527368}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'AdobeCollabSync.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 1376, 'cpu_percent': 0.0, 'memory_persent': 0.2921161495228471}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'services.exe', 'username': None, 'pid': 1384, 'cpu_percent': 0.0, 'memory_persent': 0.049134055824650656}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'LsaIso.exe', 'username': None, 'pid': 1420, 'cpu_percent': 0.0, 'memory_persent': 0.010902085334952882}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'lsass.exe', 'username': None, 'pid': 1432, 'cpu_percent': 0.0, 'memory_persent': 0.18441449828005912}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'Code.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 1456, 'cpu_percent': 0.0, 'memory_persent': 3.0349115636776367}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 1564, 'cpu_percent': 0.0, 'memory_persent': 0.28412626506503913}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'fontdrvhost.exe', 'username': None, 'pid': 1592, 'cpu_percent': 0.0, 'memory_persent': 0.00619776084110335}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 1620, 'cpu_percent': 0.0, 'memory_persent': 0.12353207652367844}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 1696, 'cpu_percent': 0.0, 'memory_persent': 0.12798749495965234}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 1748, 'cpu_percent': 0.0, 'memory_persent': 0.04796419735263517}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 1788, 'cpu_percent': 0.0, 'memory_persent': 0.04933318067095117}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 1920, 'cpu_percent': 0.0, 'memory_persent': 0.009159742929823427}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 1980, 'cpu_percent': 0.0, 'memory_persent': 0.06128067144898173}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'AMDRSSrcExt.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 2008, 'cpu_percent': 0.0, 'memory_persent': 0.3372428178157}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 2068, 'cpu_percent': 0.0, 'memory_persent': 0.016975393147118413}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 2076, 'cpu_percent': 0.0, 'memory_persent': 0.07469670796847853}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'conhost.exe', 'username': None, 'pid': 2112, 'cpu_percent': 0.0, 'memory_persent': 0.00843791536198408}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 2128, 'cpu_percent': 0.0, 'memory_persent': 0.03469750446786374}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 2136, 'cpu_percent': 0.0, 'memory_persent': 0.03815729867233509}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 2156, 'cpu_percent': 0.0, 'memory_persent': 0.046893901303769935}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 2260, 'cpu_percent': 0.0, 'memory_persent': 0.10966800910000547}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'MicrosoftStartFeedProvider.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 2324, 'cpu_percent': 0.0, 'memory_persent': 0.28173676690943306}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'conhost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 2348, 'cpu_percent': 0.0, 'memory_persent': 0.06371995081616295}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 2396, 'cpu_percent': 0.0, 'memory_persent': 0.0634212635467122}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 2468, 'cpu_percent': 0.0, 'memory_persent': 0.03815729867233509}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 2612, 'cpu_percent': 0.0, 'memory_persent': 0.031063476022879448}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 2700, 'cpu_percent': 0.0, 'memory_persent': 0.051772460038132406}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 2796, 'cpu_percent': 0.0, 'memory_persent': 0.10374404492256534}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'amdfendrsr.exe', 'username': None, 'pid': 2880, 'cpu_percent': 0.0, 'memory_persent': 0.015531738011439724}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'helperservice.exe', 'username': None, 'pid': 2908, 'cpu_percent': 0.0, 'memory_persent': 0.006496448110554115}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'atiesrxx.exe', 'username': None, 'pid': 2936, 'cpu_percent': 0.0, 'memory_persent': 0.018667954340672744}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 2996, 'cpu_percent': 0.0, 'memory_persent': 0.036166050209329996}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'taskhostw.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 3032, 'cpu_percent': 0.0, 'memory_persent': 0.04400659103241254}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'cncmd.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 3044, 'cpu_percent': 0.0, 'memory_persent': 0.05291742790436033}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 3232, 'cpu_percent': 0.0, 'memory_persent': 0.05475933273264005}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 3240, 'cpu_percent': 0.0, 'memory_persent': 0.012146615624331066}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 3248, 'cpu_percent': 0.0, 'memory_persent': 0.0322582251006825}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 3264, 'cpu_percent': 0.0, 'memory_persent': 0.0937629120017523}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'MemCompression', 'username': None, 'pid': 3324, 'cpu_percent': 0.0, 'memory_persent': 2.528561970141229}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 3364, 'cpu_percent': 0.0, 'memory_persent': 0.04380746618611204}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'AppHelperCap.exe', 'username': None, 'pid': 3412, 'cpu_percent': 0.0, 'memory_persent': 0.12208842138799975}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 3420, 'cpu_percent': 0.0, 'memory_persent': 0.033104505697459666}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'DiagsCap.exe', 'username': None, 'pid': 3428, 'cpu_percent': 0.0, 'memory_persent': 0.03459794204471348}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'TouchpointAnalyticsClientService.exe', 'username': None, 'pid': 3432, 'cpu_percent': 0.0, 'memory_persent': 0.1606190791471483}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'NetworkCap.exe', 'username': None, 'pid': 3444, 'cpu_percent': 0.0, 'memory_persent': 0.03522020718940257}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'SysInfoCap.exe', 'username': None, 'pid': 3460, 'cpu_percent': 0.0, 'memory_persent': 0.1832197492022561}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 3468, 'cpu_percent': 0.0, 'memory_persent': 0.030939022993941624}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'dllhost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 3528, 'cpu_percent': 0.0, 'memory_persent': 0.10391827916307826}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'RuntimeBroker.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 3532, 'cpu_percent': 0.0, 'memory_persent': 0.09017866476834313}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 3600, 'cpu_percent': 0.0, 'memory_persent': 0.02158015521781769}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 3728, 'cpu_percent': 0.0, 'memory_persent': 0.09421094290592844}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 3744, 'cpu_percent': 0.0, 'memory_persent': 0.07800715853822451}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'Code.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 3800, 'cpu_percent': 0.0, 'memory_persent': 0.7887832974078922}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 3952, 'cpu_percent': 0.0, 'memory_persent': 0.1582793622031173}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'Code.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 3960, 'cpu_percent': 0.0, 'memory_persent': 0.7660083931122716}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 4104, 'cpu_percent': 0.0, 'memory_persent': 0.10516280945245646}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 4192, 'cpu_percent': 0.0, 'memory_persent': 0.11487014570960628}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'msedgewebview2.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 4244, 'cpu_percent': 0.0, 'memory_persent': 0.08963107144101673}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 4252, 'cpu_percent': 0.0, 'memory_persent': 0.03733590868134549}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'unsecapp.exe', 'username': None, 'pid': 4496, 'cpu_percent': 0.0, 'memory_persent': 0.02857441544412308}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'WmiPrvSE.exe', 'username': None, 'pid': 4624, 'cpu_percent': 0.0, 'memory_persent': 0.420925034473489}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 4788, 'cpu_percent': 0.0, 'memory_persent': 0.027529010001045406}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 4948, 'cpu_percent': 0.0, 'memory_persent': 0.046769448274832114}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 4992, 'cpu_percent': 0.0, 'memory_persent': 0.1008816252569955}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 5016, 'cpu_percent': 0.0, 'memory_persent': 0.1718447423573395}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 5020, 'cpu_percent': 0.0, 'memory_persent': 0.067254416837997}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'spoolsv.exe', 'username': None, 'pid': 5088, 'cpu_percent': 0.0, 'memory_persent': 0.03892890745174956}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 5252, 'cpu_percent': 0.0, 'memory_persent': 0.0972475968120112}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'armsvc.exe', 'username': None, 'pid': 5272, 'cpu_percent': 0.0, 'memory_persent': 0.02499016821071391}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'ETDService.exe', 'username': None, 'pid': 5280, 'cpu_percent': 0.0, 'memory_persent': 0.02088321825576591}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'HPCommRecovery.exe', 'username': None, 'pid': 5288, 'cpu_percent': 0.0, 'memory_persent': 0.05933920419755176}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'RtkBtManServ.exe', 'username': None, 'pid': 5296, 'cpu_percent': 0.0, 'memory_persent': 0.022974029141921256}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'RtkAudUService64.exe', 'username': None, 'pid': 5308, 'cpu_percent': 0.0, 'memory_persent': 0.0499305552098527}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 5316, 'cpu_percent': 0.0, 'memory_persent': 0.049532305517251685}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'HPPrintScanDoctorService.exe', 'username': None, 'pid': 5324, 'cpu_percent': 0.0, 'memory_persent': 0.08012286003016741}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'OfficeClickToRun.exe', 'username': None, 'pid': 5332, 'cpu_percent': 0.0, 'memory_persent': 0.14401704508684332}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'UltraViewer_Service.exe', 'username': None, 'pid': 5340, 'cpu_percent': 0.0, 'memory_persent': 0.03915292290383763}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'GooglePlayGamesServices.exe', 'username': None, 'pid': 5356, 'cpu_percent': 0.0, 'memory_persent': 0.360689768467585}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 5372, 'cpu_percent': 0.0, 'memory_persent': 0.01605444073297856}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'sqlwriter.exe', 'username': None, 'pid': 5380, 'cpu_percent': 0.0, 'memory_persent': 0.015606409828802412}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'vmware-authd.exe', 'username': None, 'pid': 5388, 'cpu_percent': 0.0, 'memory_persent': 0.015531738011439724}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 5396, 'cpu_percent': 0.0, 'memory_persent': 0.26966482310246465}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 5404, 'cpu_percent': 0.0, 'memory_persent': 0.33597339692053424}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'SECOMN64.exe', 'username': None, 'pid': 5420, 'cpu_percent': 0.0, 'memory_persent': 0.06175359295894543}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'mc-fw-host.exe', 'username': None, 'pid': 5432, 'cpu_percent': 0.0, 'memory_persent': 1.321815620348568}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'MsMpEng.exe', 'username': None, 'pid': 5440, 'cpu_percent': 0.0, 'memory_persent': 1.8712259618974607}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'vmware-usbarbitrator64.exe', 'username': None, 'pid': 5456, 'cpu_percent': 0.0, 'memory_persent': 0.028001931511009114}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 5468, 'cpu_percent': 0.0, 'memory_persent': 0.023944762767636237}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 5476, 'cpu_percent': 0.0, 'memory_persent': 0.09455941138695434}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'vmnat.exe', 'username': None, 'pid': 5484, 'cpu_percent': 0.0, 'memory_persent': 0.019613797360600163}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'MpDefenderCoreService.exe', 'username': None, 'pid': 5524, 'cpu_percent': 0.0, 'memory_persent': 0.0678020101653234}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'vmnetdhcp.exe', 'username': None, 'pid': 5552, 'cpu_percent': 0.0, 'memory_persent': 0.009682445651362264}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 5696, 'cpu_percent': 0.0, 'memory_persent': 0.02237665460301973}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'ms-teams.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 5784, 'cpu_percent': 0.0, 'memory_persent': 0.21383519432095938}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 5848, 'cpu_percent': 0.0, 'memory_persent': 0.012743990163232593}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 6012, 'cpu_percent': 0.0, 'memory_persent': 0.029619820887200755}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'SpotifyLauncher.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 6024, 'cpu_percent': 0.0, 'memory_persent': 0.28265771932357286}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 6100, 'cpu_percent': 0.0, 'memory_persent': 0.059712563284365215}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 6672, 'cpu_percent': 0.0, 'memory_persent': 0.06001125055381598}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 6700, 'cpu_percent': 0.0, 'memory_persent': 0.00891083687194779}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'NisSrv.exe', 'username': None, 'pid': 6824, 'cpu_percent': 0.0, 'memory_persent': 0.035892253545666795}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 7000, 'cpu_percent': 0.0, 'memory_persent': 0.05597897241623067}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'dwm.exe', 'username': None, 'pid': 7340, 'cpu_percent': 0.0, 'memory_persent': 0.5364423359335719}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'crashpad_handler.exe', 'username': None, 'pid': 7428, 'cpu_percent': 0.0, 'memory_persent': 0.008213899909896008}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'HPSystemEventUtilityHost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 8040, 'cpu_percent': 0.0, 'memory_persent': 0.36049064362128447}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'RtkAudUService64.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 8056, 'cpu_percent': 0.0, 'memory_persent': 0.12323338925422768}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 8304, 'cpu_percent': 0.0, 'memory_persent': 0.01483480104938794}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'msedgewebview2.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 8532, 'cpu_percent': 0.0, 'memory_persent': 0.08052110972276844}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'HPSystemEventUtilityBackground.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 8684, 'cpu_percent': 0.0, 'memory_persent': 0.36315393844055377}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'AggregatorHost.exe', 'username': None, 'pid': 8832, 'cpu_percent': 0.0, 'memory_persent': 0.04978121157512732}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'SearchHost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 8872, 'cpu_percent': 0.0, 'memory_persent': 0.8128276225986788}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'HP.HPX.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 9116, 'cpu_percent': 0.0, 'memory_persent': 0.6541997919145356}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'dasHost.exe', 'username': None, 'pid': 9152, 'cpu_percent': 0.0, 'memory_persent': 0.10772654184857551}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 9164, 'cpu_percent': 0.0, 'memory_persent': 0.18884502611024545}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'unsecapp.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 9324, 'cpu_percent': 0.0, 'memory_persent': 0.0667068235106706}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'jusched.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 9360, 'cpu_percent': 0.0, 'memory_persent': 0.061853155382095695}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'Code.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 9488, 'cpu_percent': 0.0, 'memory_persent': 0.22209887544243054}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'Code.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 9572, 'cpu_percent': 0.0, 'memory_persent': 1.249782207199359}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 9616, 'cpu_percent': 0.0, 'memory_persent': 0.07215786617814704}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'PushNotificationsLongRunningTask.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 9672, 'cpu_percent': 0.0, 'memory_persent': 0.11160947635143544}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 9872, 'cpu_percent': 0.0, 'memory_persent': 0.11800636203883931}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 9876, 'cpu_percent': 0.0, 'memory_persent': 0.11723475325942483}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 9884, 'cpu_percent': 0.0, 'memory_persent': 0.012295959259056447}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'WmiApSrv.exe', 'username': None, 'pid': 10004, 'cpu_percent': 0.0, 'memory_persent': 0.09391225563647768}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 10012, 'cpu_percent': 0.0, 'memory_persent': 0.062226514468909144}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'vmware-tray.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 10184, 'cpu_percent': 0.0, 'memory_persent': 0.08987997749889237}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 10660, 'cpu_percent': 0.0, 'memory_persent': 0.11579109812374613}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'Code.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 10756, 'cpu_percent': 0.0, 'memory_persent': 0.3438886095609795}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'taskhostw.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 10804, 'cpu_percent': 0.0, 'memory_persent': 0.15106108652472383}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'Code.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 11156, 'cpu_percent': 0.0, 'memory_persent': 2.032815774670324}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'msedgewebview2.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 11188, 'cpu_percent': 0.0, 'memory_persent': 0.20654224682520322}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'TextInputHost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 11700, 'cpu_percent': 0.0, 'memory_persent': 0.5155342270720185}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 11844, 'cpu_percent': 0.0, 'memory_persent': 0.11954957959766825}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'OpenConsole.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 11852, 'cpu_percent': 0.0, 'memory_persent': 0.13261714763613916}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'msedgewebview2.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 12128, 'cpu_percent': 0.0, 'memory_persent': 0.25908631564275014}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'Code.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 12200, 'cpu_percent': 0.0, 'memory_persent': 2.0309738698420445}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'StartMenuExperienceHost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 12400, 'cpu_percent': 0.0, 'memory_persent': 0.9323523115905594}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'RuntimeBroker.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 12476, 'cpu_percent': 0.0, 'memory_persent': 0.14570960628039767}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 12528, 'cpu_percent': 0.0, 'memory_persent': 0.04291140437775975}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'SpotifyWidgetProvider.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 12568, 'cpu_percent': 0.0, 'memory_persent': 0.2457200603348284}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'RtkAudUService64.exe', 'username': None, 'pid': 12816, 'cpu_percent': 0.0, 'memory_persent': 0.11417320874755449}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'msedgewebview2.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 12876, 'cpu_percent': 0.0, 'memory_persent': 0.6045181427625586}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'SearchIndexer.exe', 'username': None, 'pid': 12912, 'cpu_percent': 0.0, 'memory_persent': 0.22618093479159096}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'msedgewebview2.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 12968, 'cpu_percent': 0.0, 'memory_persent': 0.41696742815326643}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'SECOCL64.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 13080, 'cpu_percent': 0.0, 'memory_persent': 0.091497866875084}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'msedgewebview2.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 13156, 'cpu_percent': 0.0, 'memory_persent': 0.3653443117498594}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'Code.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 13420, 'cpu_percent': 0.0, 'memory_persent': 0.8333374817676313}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'HP.ContextAware.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 13540, 'cpu_percent': 0.0, 'memory_persent': 0.31494083503004294}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'WidgetBoard.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 13688, 'cpu_percent': 0.0, 'memory_persent': 0.2401445646384142}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'conhost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 13868, 'cpu_percent': 0.0, 'memory_persent': 0.04721747917900826}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'Code.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 14004, 'cpu_percent': 0.0, 'memory_persent': 0.680185584356752}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 14080, 'cpu_percent': 0.0, 'memory_persent': 0.07068932043668079}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'ms-teams.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 14156, 'cpu_percent': 0.0, 'memory_persent': 0.19780564419376837}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 14176, 'cpu_percent': 0.0, 'memory_persent': 0.03524509779519014}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'backgroundTaskHost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 14352, 'cpu_percent': 0.0, 'memory_persent': 0.23474330318251282}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'Code.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 14408, 'cpu_percent': 0.0, 'memory_persent': 0.7222507081377346}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'winlogon.exe', 'username': None, 'pid': 14620, 'cpu_percent': 0.0, 'memory_persent': 0.14852224473439235}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'Code.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 14728, 'cpu_percent': 0.0, 'memory_persent': 0.9183140099263736}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 14748, 'cpu_percent': 0.0, 'memory_persent': 0.032432459341195444}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'explorer.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 14816, 'cpu_percent': 0.0, 'memory_persent': 2.0754036011728454}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 15056, 'cpu_percent': 0.0, 'memory_persent': 0.04298607619512244}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'ETDCtrl.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 15104, 'cpu_percent': 0.0, 'memory_persent': 0.10814968214696409}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'Code.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 15164, 'cpu_percent': 0.0, 'memory_persent': 0.8339846375181079}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'CrossDeviceService.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 15196, 'cpu_percent': 0.0, 'memory_persent': 0.6957173223681918}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 15400, 'cpu_percent': 0.0, 'memory_persent': 0.022874466718771}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'Code.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 15612, 'cpu_percent': 0.0, 'memory_persent': 1.3644532280626647}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'msedgewebview2.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 15972, 'cpu_percent': 0.0, 'memory_persent': 0.013714723788947576}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'cmd.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 15996, 'cpu_percent': 0.0, 'memory_persent': 0.044529293753951385}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'crashpad_handler.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 16040, 'cpu_percent': 0.0, 'memory_persent': 0.05147377276868164}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'SecurityHealthSystray.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 16084, 'cpu_percent': 0.0, 'memory_persent': 0.08350798241727607}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'mc-fw-host.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 16864, 'cpu_percent': 0.0, 'memory_persent': 0.19312621030570642}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 16880, 'cpu_percent': 0.0, 'memory_persent': 0.047317041602158515}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 16960, 'cpu_percent': 0.0, 'memory_persent': 0.20736363681619283}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'fdm.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 16972, 'cpu_percent': 0.0, 'memory_persent': 0.8688812668322723}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 17248, 'cpu_percent': 0.0, 'memory_persent': 0.009881570497662771}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'SecurityHealthService.exe', 'username': None, 'pid': 17372, 'cpu_percent': 0.0, 'memory_persent': 0.10187724948849805}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'dasHost.exe', 'username': None, 'pid': 17676, 'cpu_percent': 0.0, 'memory_persent': 0.040770812280029274}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'WindowsTerminal.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 17920, 'cpu_percent': 0.0, 'memory_persent': 0.5459754379502089}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'DesktopExtension.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 18236, 'cpu_percent': 0.0, 'memory_persent': 0.3815729867233509}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 18272, 'cpu_percent': 0.0, 'memory_persent': 0.05550605090626695}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 18392, 'cpu_percent': 0.0, 'memory_persent': 0.05503312939630325}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 18584, 'cpu_percent': 0.0, 'memory_persent': 0.01946445372587478}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'sqlservr.exe', 'username': None, 'pid': 18600, 'cpu_percent': 0.0, 'memory_persent': 0.48651178072371926}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 18900, 'cpu_percent': 0.0, 'memory_persent': 0.0946589738101046}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'RuntimeBroker.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 18984, 'cpu_percent': 0.0, 'memory_persent': 0.19499300573977368}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 19128, 'cpu_percent': 0.0, 'memory_persent': 0.03185997540808148}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'msedgewebview2.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 19184, 'cpu_percent': 0.0, 'memory_persent': 0.01232084986484401}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'crashpad_handler.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 19208, 'cpu_percent': 0.0, 'memory_persent': 0.05037858611402884}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'fontdrvhost.exe', 'username': None, 'pid': 19232, 'cpu_percent': 0.0, 'memory_persent': 0.0767128470372712}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 19536, 'cpu_percent': 0.0, 'memory_persent': 0.029470477252475372}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'uihost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 19672, 'cpu_percent': 0.0, 'memory_persent': 0.18391668616430787}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'CrossDeviceResume.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 19752, 'cpu_percent': 0.0, 'memory_persent': 0.34625321711079804}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'FileSyncHelper.exe', 'username': None, 'pid': 20176, 'cpu_percent': 0.0, 'memory_persent': 0.11805614325041444}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'sihost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 20652, 'cpu_percent': 0.0, 'memory_persent': 0.32029231527436913}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 20768, 'cpu_percent': 0.0, 'memory_persent': 0.0923939286834363}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'ShellHost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 20856, 'cpu_percent': 0.0, 'memory_persent': 0.3223084543431618}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'sqlceip.exe', 'username': None, 'pid': 20932, 'cpu_percent': 0.0, 'memory_persent': 0.1467799023292629}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 21012, 'cpu_percent': 0.0, 'memory_persent': 0.03210888146595712}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 21056, 'cpu_percent': 0.0, 'memory_persent': 0.31242688384549905}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'ctfmon.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 21284, 'cpu_percent': 0.0, 'memory_persent': 0.20878240134608395}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'FileCoAuth.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 21580, 'cpu_percent': 0.0, 'memory_persent': 0.22224821907715592}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'RadeonSoftware.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 21812, 'cpu_percent': 0.0, 'memory_persent': 0.4535068374494099}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 21876, 'cpu_percent': 0.0, 'memory_persent': 0.11875308021246621}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'Code.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 21980, 'cpu_percent': 0.0, 'memory_persent': 0.9705593914744697}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 22272, 'cpu_percent': 0.0, 'memory_persent': 0.23404636622046107}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'AdobeCollabSync.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 22316, 'cpu_percent': 0.0, 'memory_persent': 0.14195112480647554}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'RuntimeBroker.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 22352, 'cpu_percent': 0.0, 'memory_persent': 0.13119838310624804}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'HPMediaNetwork.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 22380, 'cpu_percent': 0.0, 'memory_persent': 0.3374668332677881}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 22860, 'cpu_percent': 0.0, 'memory_persent': 0.017398533445506997}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'OneDrive.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 23068, 'cpu_percent': 0.0, 'memory_persent': 0.7626232707251629}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'PhoneExperienceHost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 23228, 'cpu_percent': 0.0, 'memory_persent': 0.9012390543561049}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'csrss.exe', 'username': None, 'pid': 23436, 'cpu_percent': 0.0, 'memory_persent': 0.04933318067095117}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'WidgetService.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 23488, 'cpu_percent': 0.0, 'memory_persent': 0.18919349459127136}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'mc-neo-host.exe', 'username': None, 'pid': 23784, 'cpu_percent': 0.0, 'memory_persent': 0.1623863121580653}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 23828, 'cpu_percent': 0.0, 'memory_persent': 0.016427799819792015}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'python.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 23884, 'cpu_percent': 0.0, 'memory_persent': 0.14496288810677074}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'msedgewebview2.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 24144, 'cpu_percent': 0.0, 'memory_persent': 0.08310973272467506}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'servicehost.exe', 'username': None, 'pid': 24188, 'cpu_percent': 0.0, 'memory_persent': 0.19628731724072698}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'msedgewebview2.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 24540, 'cpu_percent': 0.0, 'memory_persent': 0.03942671956750083}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'RuntimeBroker.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 24700, 'cpu_percent': 0.0, 'memory_persent': 0.40439767223054673}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 24704, 'cpu_percent': 0.0, 'memory_persent': 0.16945524420173338}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'msedgewebview2.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 25016, 'cpu_percent': 0.0, 'memory_persent': 0.7673027046132249}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'atieclxx.exe', 'username': None, 'pid': 25176, 'cpu_percent': 0.0, 'memory_persent': 0.1267180740644866}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'msedgewebview2.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 26564, 'cpu_percent': 0.0, 'memory_persent': 0.13229356976090084}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 26632, 'cpu_percent': 0.0, 'memory_persent': 0.10984224334051843}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'RuntimeBroker.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 26828, 'cpu_percent': 0.0, 'memory_persent': 0.28970176076145343}
+--------------------------------------------
+--------------------------------------------
+{'status': 'stopped', 'name': 'LockApp.exe', 'username': 'LAPTOP-UT3JB7CV\\SANKET', 'pid': 26968, 'cpu_percent': 0.0, 'memory_persent': 0.7393007731022158}
+--------------------------------------------
+--------------------------------------------
+{'status': 'running', 'name': 'svchost.exe', 'username': None, 'pid': 27288, 'cpu_percent': 0.0, 'memory_persent': 0.06138023387213198}
+--------------------------------------------
+--------------------------------------------------
+----- Marvellous Platform Survillence System -----
+--------------------------------------------------
+Invalid no of arguments
+Unable to proceed as argument are not matching
+Please use --h or --u flag for getting more details
+--------------------------------------------------
+---Thank you for using our automation system --- 
+--------------------------------------------------
